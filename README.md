@@ -7,13 +7,10 @@
 不会影响对算法的理解。
 
 本项目将使用Python语言，我将尽量自己写算法去实现机器算法，不使用现成的机器学习或者深度学习包，如sklearn，tensorflow等。为了将重心放在机器学习算法上，
-不在数值计算部分纠结，所以本项目将会使用![Numpy](http://www.numpy.org/)包。这里是中文的，有对应的英文版本
-This repository will using Python, not using machine learning or deep learning package such as sklearn, tensorflow etc. 
-But instead we will use  to facilitate numerical computation. This repository will be written 
-using English, if you find your English or my English to understand, please check the Chinese repository.
+不在数值计算部分纠结，所以本项目将会使用![Numpy](http://www.numpy.org/)包。这里是中文的，有对应的英文版本![English Version](https://github.com/chenxingwei/machine_learning_from_scratch)
 
-## Algorithm Index
+## 算法目录
 
-1. Linear Regression (coming soon)
+1. 线性回归（敬请期待）
 
 2. 
