@@ -1,5 +1,6 @@
 # machine_learning_from_scrach_Chinese
 
+# 中文版还没有更新，先看英文版。[English Version](https://github.com/chenxingwei/machine_learning_from_scratch)
 
 ## 简介
 
@@ -7,7 +8,7 @@
 不会影响对算法的理解。
 
 本项目将使用Python语言，我将尽量自己写算法去实现机器算法，不使用现成的机器学习或者深度学习包，如sklearn，tensorflow等。为了将重心放在机器学习算法上，
-不在数值计算部分纠结，所以本项目将会使用![Numpy](http://www.numpy.org/)包。这里是中文的，有对应的英文版本![English Version](https://github.com/chenxingwei/machine_learning_from_scratch)
+不在数值计算部分纠结，所以本项目将会使用[Numpy](http://www.numpy.org/)包。这里是中文的，有对应的英文版本[English Version](https://github.com/chenxingwei/machine_learning_from_scratch)
 
 ## 算法目录
 
